@@ -1,4 +1,4 @@
-$ gitclone https:github.com/RULL-GANS/V2
+$ git clone https://github.com/RULL-GANS/V2
 
 $ cd V2
 
