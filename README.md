@@ -1,10 +1,10 @@
-$ git clone https://github.com/RULL-GANS/V2
+$ git clone https://github.com/RULL-GANS/V3
 
-$ cd V2
+$ cd V3
 
 $ git pull
 
-$ python V2.py
+$ python V3.py
 
 🅹︎🅰︎🅽︎🅶︎🅰︎🅽︎ 🅻︎🆄︎🅿︎🅰︎ git pull
 
